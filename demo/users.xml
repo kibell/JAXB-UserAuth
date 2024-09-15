@@ -4,4 +4,14 @@
         <password>password123</password>
         <username>john_doe</username>
     </user>
+    <user>
+        <email>test@gmail.com</email>
+        <password>test</password>
+        <username>kibell</username>
+    </user>
+    <user>
+        <email>test1@gmail.com</email>
+        <password>test</password>
+        <username>test</username>
+    </user>
 </users>
